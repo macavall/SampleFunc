@@ -9,7 +9,7 @@
 
 ![image](https://github.com/user-attachments/assets/5921420b-bc36-458a-9015-5f33a0d87bdf)
 
-The by changing the `Program.cs`, removing the Injected Services, we can confirm if there is a configuration issue or a failure in the Function Host
+Finally, by changing the `Program.cs`, removing the Injected Services, we can confirm if there is a configuration issue or a failure in the Function Host
 
 ```csharp
 internal class Program
